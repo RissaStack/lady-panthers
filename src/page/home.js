@@ -6,7 +6,7 @@ const Home = () => {
         <div>
             <h1>Lady Panther Basketball</h1>
             <br></br>
-            <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
+            {/* <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
                         <img src="..." class="d-block w-100" alt="..."/>
@@ -26,9 +26,9 @@ const Home = () => {
                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Next</span>
                 </button>
-            </div>
+            </div> */}
             <h2>Who We Are</h2>
-            <p>A paragraph about who we are will go here. </p>
+            <p>We are the Coconino Lady Panthers Basketball Team! From coaches to players, we strive to be better each and everyday on and off the court.</p>
             <br></br>
             <h2>Our Goals</h2>
             <p>What our goal are. </p>
