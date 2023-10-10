@@ -11,14 +11,18 @@ import './style.css';
 const Page = ({currentPage}) => {
     const renderPage = (page) => {
         switch (page) {
-            case 'Portfolio':
-                return <Portfolio />;
-            case 'Contact':
-                return <Contact />;
-            case 'Resume':
-                return <Resume />;
+            case 'Freshman':
+                return <Freshman />;
+            case 'Jv':
+                return <Jv />;
+            case 'Schedule':
+                return <Schedule />;
+            case 'Photogallery':
+                return <Photogallery />;
+            case 'Varsity':
+                return <Varsity />;
             default:
-                return <About />;
+                return <Home />;
         }
     };
     return <section className="container py-4">
