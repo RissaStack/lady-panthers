@@ -5,7 +5,6 @@ import Jv from './jv';
 import Schedule from './schedule';
 import Photogallery from './photogallery';
 import Varsity from './varsity';
-import {capitalize} from '../utils'
 import './style.css';
 
 const Page = ({currentPage}) => {

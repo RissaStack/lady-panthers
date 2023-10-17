@@ -1,4 +1,4 @@
-import React from React;
+import React from "react";
 
 const Photogallery = () => {
     return (
@@ -21,5 +21,7 @@ const Photogallery = () => {
             {/* Row of images here */}
         </div>
         </>
-    )
-}
+    );
+};
+
+export default Photogallery;
