@@ -28,7 +28,7 @@ const Home = () => {
                 </button>
             </div> */}
             <h2>Who We Are</h2>
-            <p>The Coconino High School Girls' Basketball Team is more than just a team; we're a family bound by the love of the game and a commitment to developing not only exceptional athletes but outstanding individuals. We believe in the power of basketball as a vehicle for fostering life skills, personal growth, and character development all while accepting their own greatness through the achievments of winning and the pains of losses.</p>
+            <p>The Coconino High School Girls' Basketball Team is more than just a team; we're a family bound by the love of the game and a commitment to developing not only exceptional athletes but outstanding individuals. We believe in the power of basketball as a vehicle for fostering life skills, personal growth, and character development all while accepting their own greatness through the achievments of winning and the lessons of losses.</p>
             <br></br>
             <h2>Our Goals</h2>
             <p>Our core values extend beyond the court, emphasizing responsibility, compassion, kindness, and a relentless work ethic. We instill these qualities in our athletes through the challenges and triumphs of basketball, preparing them for success in life as well as in sports.</p>
