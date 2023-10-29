@@ -1,12 +1,12 @@
 import React from 'react';
 import Nav from '../Nav';
-// import headerImage from '../../assets/cover/flowers.jpg';
+import headerImage from '../../assets/images/panthers logo.png';
 import './style.css'
 
 const Header = ({pages, currentPage, setCurrentPage}) => {
     return (
         <header className="container-fluid">
-            {/* <img src={headerImage} alt="purple flowers"/> */}
+            <img src={headerImage} alt="coconino picture"/>
             <div className="container d-lg-flex justify-content-lg-between py-2">
                 <h1 className="text-center">Lady Panthers Basketball</h1>
                 <Nav 
