@@ -1,5 +1,5 @@
 import React from 'react';
-import  {freshPlayers} from '../data/';
+import  {freshPlayers} from '../data';
 import Team from '../components/Team';
 
 const Freshman = () => {

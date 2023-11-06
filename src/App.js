@@ -3,7 +3,7 @@ import Header from './components/Header';
 import Footer from './components/Footer';
 import Page from './Page';
 
-const pages = ["Freshman", "Home", "Jv", "Photogallery", "Schedule", "Varsity"];
+const pages = ["Home", "Schedule", "Freshman", "Jv", "Varsity", "Photogallery",];
 
 function App() {
   const [currentPage, setCurrentPage] = useState('Home');
