@@ -58,13 +58,3 @@ h1, h2 {
 .col .card .card-img-overlay h3 {
   color: black;
 }
-
-.page-link {
-  color: white; /* Set the text color to white */
-  text-decoration: none;
-  font-size: 1rem;
-}
-
-.page-link.active {
-  font-weight: bold;
-}

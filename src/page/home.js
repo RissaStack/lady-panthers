@@ -4,7 +4,7 @@ const Home = () => {
     return (
         <>
         <div>
-            <h1>Lady Panther Basketball</h1>
+            {/* <h1>Lady Panther Basketball</h1> */}
             <br></br>
             {/* <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
                 <div class="carousel-inner">
