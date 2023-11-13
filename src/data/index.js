@@ -118,8 +118,8 @@ export const JvPlayers =[
         number: "#"
     },
     {
-        name: "Jizell Avila",
-        description: "Estrella Ortiz will go here.",
+        name: "Estrella Ortiz",
+        description: "Estrella is a junior at Coconino High School. Estrella plays hard and cheers herr teammates on even harder. She says a quote that defines her is “Unstable but still committed to winning”.",
         number: "#"
     },
     {
@@ -128,8 +128,8 @@ export const JvPlayers =[
         number: "#"
     },
     {
-        name: "Jizell Avila",
-        description: "Kalecia Paddock will go here.",
+        name: "Kalecia Paddock",
+        description: 'Kalecia goes by Kali. She is 17 years old and a junior at Coconino High School. Her hobbies mainly consist of sports, riding horses, swimming, and hunting. She loves to attend church. She goes to the Dilkon First Church of Nazarene. A quote that Kali lives by is “Being confident of this very thing, that he which hath begun a good work in you will perform” -Philippians1:6',
         number: "#"
     }
 ];
