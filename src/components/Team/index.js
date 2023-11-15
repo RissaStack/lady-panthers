@@ -15,12 +15,14 @@ const Team = ({team}) => {
           {team.description}
         </p>
           <div  className="d-flex justify-content-space-between">
-            <a href={team.link} class="btn btn-secondary name-bt">
-              {team.name}
-            </a>
-            <a href={team.repo} class="btn btn-secondary git-bt">
-              <i className="fab fa-github"></i>
-            </a>
+            <p className="playerName">
+            {team.name}
+            </p>
+          </div>
+          <div className="d-flex justify-content-space-between">
+            <p className="playerNumber">
+              {team.number}
+            </p>
           </div>
       </div>
     </div>

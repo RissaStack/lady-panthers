@@ -35,7 +35,7 @@ export const freshPlayers =[
         number: "#"
     },
     {
-        name: "Jizell Avila",
+        name: "Majorita Martinez",
         description: "Majorita Martinez will go here.",
         number: "#"
     },
@@ -79,59 +79,54 @@ export const JvPlayers =[
     },
     {
         name: "Jizell Avila",
-        description: "Catherine Martin will go here.",
-        number: "#"
-    },
-    {
-        name: "Jizell Avila",
-        description: "Morgan Long will go here.",
-        number: "#"
+        description: "Jordyn Paddock will go here.",
+        number: "#0"
     },
     {
         name: "Jizell Avila",
         description: "Melanie Ramos will go here.",
-        number: "#"
-    },
-    {
-        name: "Jizell Avila",
-        description: "Hannah Thom will go here.",
-        number: "#"
-    },
-    {
-        name: "Jizell Avila",
-        description: "Jada Dickson will go here.",
-        number: "#"
-    },
-    {
-        name: "Jizell Avila",
-        description: "Amara Garcia will go here.",
-        number: "#"
-    },
-    {
-        name: "Jizell Avila",
-        description: "Lilah Hunter will go here.",
-        number: "#"
-    },
-    {
-        name: "Jizell Avila",
-        description: "Jordyn Paddock will go here.",
-        number: "#"
-    },
-    {
-        name: "Estrella Ortiz",
-        description: "Estrella is a junior at Coconino High School. Estrella plays hard and cheers herr teammates on even harder. She says a quote that defines her is “Unstable but still committed to winning”.",
-        number: "#"
-    },
-    {
-        name: "Jizell Avila",
-        description: "Harmony Husky will go here.",
-        number: "#"
+        number: "#1"
     },
     {
         name: "Kalecia Paddock",
         description: 'Kalecia goes by Kali. She is 17 years old and a junior at Coconino High School. Her hobbies mainly consist of sports, riding horses, swimming, and hunting. She loves to attend church. She goes to the Dilkon First Church of Nazarene. A quote that Kali lives by is “Being confident of this very thing, that he which hath begun a good work in you will perform” -Philippians1:6',
-        number: "#"
-    }
+        number: "#2"
+    },
+    {
+        name: "Hannah Thom",
+        description: "Hannah Thom will go here.",
+        number: "#3"
+    },
+    {
+        name: "Estrella Ortiz",
+        description: "Estrella is a junior at Coconino High School. Estrella plays hard and cheers herr teammates on even harder. She says a quote that defines her is “Unstable but still committed to winning”.",
+        number: "#5"
+    },
+    {
+        name: "Jizell Avila",
+        description: "Jada Dickson will go here.",
+        number: "#10"
+    },
+    {
+        name: "Jizell Avila",
+        description: "Amara Garcia will go here.",
+        number: "#20"
+    },
+    {
+        name: "Jizell Avila",
+        description: "Lilah Hunter will go here.",
+        number: "#23"
+    },
+    {
+        name: "Jizell Avila",
+        description: "Morgan Long will go here.",
+        number: "#25"
+    },
+    {
+        name: "Jizell Avila",
+        description: "Catherine Martin will go here.",
+        number: "#30"
+    },
 ];
 
 export const VarsityPlayers =[
