@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.64394ccc.css",
+    "main.js": "/static/js/main.07f4b243.js",
+    "static/media/Nevaeh Sherlock.jpg": "/static/media/Nevaeh Sherlock.df4dbc12755161630d96.jpg",
+    "static/media/Autumn Larsen.jpg": "/static/media/Autumn Larsen.6658e16368b339c8a183.jpg",
+    "static/media/Estrella Ortiz.jpg": "/static/media/Estrella Ortiz.e5c213e1858cfbb9d66c.jpg",
+    "static/media/Majorita Martinez.jpg": "/static/media/Majorita Martinez.f1e201aa513aecfc0839.jpg",
+    "static/media/Kalecia Paddock.jpg": "/static/media/Kalecia Paddock.5da0de2db252cbed180a.jpg",
+    "static/media/Jizell Avila.jpg": "/static/media/Jizell Avila.971af8373ed31f06a060.jpg",
+    "static/media/Larissa Stack.jpg": "/static/media/Larissa Stack.1c799b156bc31a32c784.jpg",
+    "static/media/logoImg.png": "/static/media/logoImg.aca821f87c9d360509d4.png",
+    "static/media/Hannah Thom.jpg": "/static/media/Hannah Thom.2d466d86bfaddd97e0ce.jpg",
+    "static/media/headerImg.jpg": "/static/media/headerImg.980c7b933f290b97a200.jpg",
+    "index.html": "/index.html",
+    "main.64394ccc.css.map": "/static/css/main.64394ccc.css.map",
+    "main.07f4b243.js.map": "/static/js/main.07f4b243.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64394ccc.css",
+    "static/js/main.07f4b243.js"
+  ]
+}
