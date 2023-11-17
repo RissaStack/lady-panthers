@@ -12,7 +12,7 @@ const Photogallery = () => {
             <div className="photo-carousel">
                 <Carousel>
                     <Carousel.Item>
-                        <img className="d-block w-100" src="https://via.placeholder.com/800x400" alt="First slide"/>
+                        <img className="d-block w-100" src="../assets/jvteam" alt="First slide"/>
                         <Carousel.Caption>
                             <h3>First slide label</h3>
                             <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
